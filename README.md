@@ -77,21 +77,4 @@ Web application developed as a diploma final-year project for a lawyer's firm.
 - GitHub: [@utkarshas05](https://github.com/utkarshas05)
 - LinkedIn: [Utkarsha Nawale](https://www.linkedin.com/in/utkarsha-s-n0510/)
 
-- ---
-
-## 🖥️ Application Screenshots
-
-### 🔐 Login
-
-![PowerPress Login](screenshots/login.png)
-
-### 📊 Production Dashboard
-
-![PowerPress Dashboard](screenshots/dashboard.png)
-
-### ⚙️ Machine Details
-
-![PowerPress Machine Details](screenshots/machine-details.png)
----
-
 ⭐ Thanks for visiting my profile!
