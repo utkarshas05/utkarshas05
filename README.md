@@ -1,64 +1,73 @@
 # Hi, I'm Utkarsha 👋
 
 🎓 Electronics & Computer Engineering Student  
-💻 Interested in Web Development, IoT & Software Technologies  
-🚀 Building practical projects and continuously learning new technologies
+💻 Interested in Full-Stack Development, IoT & Cloud Technologies  
+🚀 Building practical projects to solve real-world problems
 
 ---
 
-## 🛠️ Skills & Technologies
+## 👩‍💻 About Me
 
-### Programming & Web
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
+- 🎓 Electronics & Computer Engineering student
+- 💻 Exploring full-stack web development
+- 🌐 Interested in IoT and connected systems
+- 🗄️ Learning database design and backend development
+- ☁️ Exploring cloud technologies
+- 🔧 Enjoy building practical engineering projects
 
-### Database & Tools
-- PostgreSQL
-- Git
-- GitHub
-- VS Code
+---
 
-### IoT & Embedded Systems
-- ESP32
-- Arduino
-- WiFi
-- Sensors & Relays
+## 🛠️ Tech Stack
+
+### Web Development
+HTML • CSS • JavaScript • React • Node.js
+
+### Database
+PostgreSQL
+
+### IoT & Embedded
+ESP32 • Arduino • WiFi • Sensors • Relays
+
+### Tools
+Git • GitHub • VS Code
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏭 Production Monitoring System
-A web-based monitoring system for monitoring power press machines, tracking machine status, uptime, downtime, and productivity.
+### 🏭 PowerPress Production Monitoring System
 
-**Tech:** React • Node.js • PostgreSQL • WiFi/IoT
+Web-based production monitoring system for monitoring power press machines, machine status, uptime, downtime and production-related data.
 
-### ⚖️ Lawyer Firm Web Application
-A web application developed as my diploma final-year project for a lawyer's firm.
+**React • Node.js • PostgreSQL • WiFi/IoT**
 
-**Tech:** Web Technologies
+### 📡 ESP32 Downtime Monitoring System
+
+IoT-based system for monitoring machine downtime and recording downtime reasons.
+
+**ESP32 • Arduino • WiFi • ThingSpeak**
 
 ### 🏠 Smart Home Automation
-An ESP32-based smart home system for controlling household appliances through WiFi.
 
-**Tech:** ESP32 • WiFi • Sensors • Relays
+ESP32-based home automation system for controlling household appliances through WiFi.
 
-### 📡 Downtime Monitoring System
-An ESP32-based system for monitoring machine downtime and recording different downtime reasons.
+**ESP32 • WiFi • Sensors • Relays**
 
-**Tech:** ESP32 • Arduino • WiFi • ThingSpeak
+### ⚖️ Lawyer Firm Web Application
+
+Web application developed as a diploma final-year project for a lawyer's firm.
+
+**HTML • CSS • JavaScript**
 
 ---
 
 ## 🌱 Currently Learning
 
 - Full-Stack Web Development
-- Database Management
+- Backend Development
+- PostgreSQL & Database Design
 - Cloud Technologies
-- IoT & Embedded Systems
+- IoT & Industrial Monitoring
 - Git & GitHub
 
 ---
@@ -66,8 +75,7 @@ An ESP32-based system for monitoring machine downtime and recording different do
 ## 📫 Connect With Me
 
 - GitHub: [@utkarshas05](https://github.com/utkarshas05)
-- LinkedIn: Add your LinkedIn profile here
-
+- LinkedIn: [Utkarsha Nawale](https://www.linkedin.com/in/utkarsha-s-n0510/)
 ---
 
 ⭐ Thanks for visiting my profile!
